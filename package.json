@@ -33,7 +33,7 @@
     "url": "https://github.com/mattcg/socks5-client.git"
   },
   "dependencies": {
-    "ip-address": "~5.8.0",
+    "ip-address": "^5.9.0",
     "multicast-dns": "git+https://github.com/webarchymeta/multicast-dns.git"
   },
   "engines": {
